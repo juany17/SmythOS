@@ -360,5 +360,9 @@ Ride the llama. Skip the drama.
 
 ## Community Contribution
 
-This project is amazing ✨.
-Initial contribution by Juan Gómez to learn and collaborate in SmythOS 🚀
+This project is amazing 
+Initial contribution by Juan Gómez to learn and collaborate in SmythOS 
+## Contribución de la comunidad
+
+Este proyecto es increíble
+Aporte inicial por **Juan Gómez** para aprender y colaborar en SmythOS 
