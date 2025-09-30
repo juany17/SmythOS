@@ -357,3 +357,8 @@ This project is licensed under the [MIT License](LICENSE).
 /smɪθ oʊ ɛs/
 
 Ride the llama. Skip the drama.
+
+## Community Contribution
+
+This project is amazing ✨.
+Initial contribution by Juan Gómez to learn and collaborate in SmythOS 🚀
